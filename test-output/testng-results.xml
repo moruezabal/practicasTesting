@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T19:59:48 ART" name="Default suite" finished-at="2022-06-23T19:59:48 ART" duration-ms="145">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T19:59:48 ART" name="Default test" finished-at="2022-06-23T19:59:48 ART" duration-ms="145">
+      <class name="tests.testNG.SocioTest">
+        <test-method signature="actividadRepetida()[pri:0, instance:tests.testNG.SocioTest@37858383]" started-at="2022-06-23T19:59:48 ART" name="actividadRepetida" finished-at="2022-06-23T19:59:48 ART" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actividadRepetida -->
+        <test-method signature="socioRepetido()[pri:0, instance:tests.testNG.SocioTest@37858383]" started-at="2022-06-23T19:59:48 ART" name="socioRepetido" finished-at="2022-06-23T19:59:48 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- socioRepetido -->
+        <test-method signature="validarToString()[pri:0, instance:tests.testNG.SocioTest@37858383]" started-at="2022-06-23T19:59:48 ART" name="validarToString" finished-at="2022-06-23T19:59:48 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validarToString -->
+      </class> <!-- tests.testNG.SocioTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
